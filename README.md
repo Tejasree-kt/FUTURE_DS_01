@@ -19,6 +19,14 @@ This repository contains the analysis and data models built during my Data Scien
 
 ## 📈 Structural Revenue Pillars
 
+### 📊 Sales Analytics Visualizations
+Here are the graphical trends extracted from the sales data model:
+
+![Sales by Category](https://quickchart.io{type:%27bar%27,data:{labels:[%27Electronics%27,%27Software%27,%27Office%20Supplies%27],datasets:[{label:%27Revenue%20($)%27,data:[194561,116423,94803]}]}})
+
+![Regional Sales Share](https://quickchart.io{type:%27pie%27,data:{labels:[%27North%20America%27,%27Europe%27,%27APAC%27,%27LATAM%27],datasets:[{data:[41.3,30.0,18.8,9.9]}]}})
+
+
 ### 1. Category Performance Matrix
 * **Electronics:** \$194,561.00 (47.9% market share) — Core engine of overall growth.
 * **Software & Cloud:** \$116,423.50 (28.7% market share) — High-efficiency vertical.
