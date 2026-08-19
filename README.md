@@ -19,6 +19,13 @@ This repository contains the analysis and data models built during my Data Scien
 Here are the graphical trends extracted from the sales data model:
 
 #### 1. Market Share by Category
+<img src="https://quickchart.io{type:'bar',data:{labels:['Electronics','Software/Cloud','Office Supplies'],datasets:[{label:'Market Share (%)',data:[47.9,28.7,23.4],backgroundColor:'rgba(54,162,235,0.6)'}]}}" width="500"/>
+
+#### 2. Regional Sales Share
+<img src="https://quickchart.io{type:'pie',data:{labels:['North America','Europe','APAC','LATAM'],datasets:[{data:[41.3,30.0,18.8,9.9]}]}}" width="400"/>
+
+
+#### 1. Market Share by Category
 ```text
 [Electronics: 47.9%]████████████████████████
 [Software/Cloud: 28.7%]██████████████
